@@ -1,0 +1,1 @@
+{"info": {"image_name": "1627386916130.jpg"}, "annotations": [{"category_name": "non-motor-vehicle", "score": 0.3903794288635254, "bbox": [1840, 665, 160, 308]}, {"category_name": "pedestrian", "score": 0.10351288318634033, "bbox": [1839, 646, 162, 282]}]}
