@@ -41,7 +41,7 @@ def detect_img(imgs_path, out_json_path):
 
 if __name__ == '__main__':
     imgs_path = "./task5"
-    out_json_path = "./task5_result/智创星梦"
+    out_json_path = "./task5_result/zhichuangxingmeng"
 
     if not os.path.exists(out_json_path):
         os.makedirs(out_json_path)
